@@ -17,5 +17,5 @@ First, ensure that gcc is available on your PATH.
 Next, run `buid_windows.bat` from this directory.
 
 Finally, run `onnxruntime_example.exe` from this directory. (It will attempt to
-load onnxruntime.dll from the `lib/` subdirectory.)
+load onnxruntime.dll from the `onnxruntime\lib` subdirectory.)
 
